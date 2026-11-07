@@ -1,0 +1,7 @@
+"set","model","n","param1","param2","fitted_mean","sample_mean","logLik","AIC","KS_p","chisq","chisq_p","best"
+"Outpatient/community, provider","exponential",25,0.15163,NA,6.5948,6.5948,-72.157,146.31,0.17109,13.275,0.0040778,FALSE
+"Outpatient/community, provider","gamma",25,2.3262,0.35273,6.5948,6.5948,-68.096,140.19,0.74578,7.1493,0.028026,TRUE
+"Outpatient/community, provider","lognormal",25,1.6562,0.7154,6.7673,6.5948,-68.506,141.01,0.72273,6.8351,0.032793,FALSE
+"Inpatient, provider","exponential",9,0.0025032,NA,399.49,399.49,-62.912,127.82,0.42807,NA,NA,FALSE
+"Inpatient, provider","gamma",9,0.52281,0.0013087,399.48,399.49,-61.246,126.49,0.99357,NA,NA,TRUE
+"Inpatient, provider","lognormal",9,4.7836,1.844,654.37,399.49,-61.33,126.66,0.95411,NA,NA,FALSE

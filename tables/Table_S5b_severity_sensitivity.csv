@@ -1,0 +1,3 @@
+"severity","mean_S_simulated","mean_S_analytical","sd_S_simulated","sd_S_analytical","VaR95","TVaR95","expected_cost_per_child"
+"Gamma (base case)",1330494.97,1330629.91,36629.12,36737.55,1391374.53,1407467.12,13.3
+"Lognormal",2075891.2,2074305.23,193470.58,192922.28,2399622.3,2573341.54,20.76

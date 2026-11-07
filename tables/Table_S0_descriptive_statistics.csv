@@ -1,0 +1,5 @@
+"set","n","mean","sd","cv","median","Q1","Q3","min","max","skewness","excess_kurtosis"
+"Outpatient/community, provider (per case)",25,6.59,4.34,0.66,6.38,3.22,9.32,1.12,17.88,0.86,0.18
+"Inpatient, provider (per admission)",9,399.49,588.01,1.47,192.57,30.13,441.25,4.24,1838.57,1.82,2.15
+"Inpatient, household total or OOP",4,39.8,15.79,0.4,39.44,32.23,47.01,21.14,59.17,0.07,-1.13
+"Outpatient/community, household total or OOP",6,4.19,3.33,0.79,3.52,1.53,6.5,0.81,8.94,0.34,-1.47

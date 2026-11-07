@@ -1,0 +1,2 @@
+"lambda_outpatient","lambda_inpatient","severity_outpatient","severity_inpatient","mean_S_simulated","mean_S_analytical","sd_S_simulated","sd_S_analytical","VaR95","TVaR95","VaR99","expected_cost_per_child","expected_cost_per_episode"
+26100,2900,"gamma","gamma",1330494.97,1330629.91,36629.12,36737.55,1391374.53,1407467.12,1418414.07,13.3,45.88

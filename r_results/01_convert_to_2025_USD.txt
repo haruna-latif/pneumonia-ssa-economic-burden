@@ -1,0 +1,236 @@
+
+Done. Results written to ./tables/costs_2025USD.csv 
+ record_no      country                                setting
+       382        Kenya                        Home-based care
+       382        Kenya                    Facility-based care
+       382        Kenya                    Facility-based care
+       382        Kenya                    Facility-based care
+       382        Kenya                    Facility-based care
+       345      Nigeria                             Outpatient
+       345      Nigeria                              Inpatient
+       345      Nigeria                              Inpatient
+       345      Nigeria                              Inpatient
+       345      Nigeria                              Inpatient
+       351 South Africa                 Inpatient, public ward
+       351 South Africa                 Inpatient, public PICU
+       351 South Africa        Inpatient, fee-for-service ward
+       351 South Africa        Inpatient, fee-for-service PICU
+       129       Malawi            Inpatient, severe pneumonia
+       129       Malawi       Inpatient, very severe pneumonia
+       955   The Gambia                             Outpatient
+       955   The Gambia                             Outpatient
+       955   The Gambia                             Outpatient
+       955   The Gambia                              Inpatient
+       955   The Gambia                              Inpatient
+       955   The Gambia                              Inpatient
+      1018     Ethiopia                              Inpatient
+      1018     Ethiopia                              Inpatient
+      1018     Ethiopia                              Inpatient
+      1018     Ethiopia                              Inpatient
+       969     Ethiopia                             Outpatient
+       969     Ethiopia                             Outpatient
+       969     Ethiopia                     Inpatient (severe)
+       969     Ethiopia                     Inpatient (severe)
+       953       Uganda                           All episodes
+       953       Uganda                              Inpatient
+       953       Uganda           Outpatient (ambulatory only)
+       953       Uganda                              Inpatient
+       953       Uganda                             Outpatient
+       953       Uganda                           All episodes
+       953       Uganda                           All episodes
+        84   Mozambique                   Inpatient (hospital)
+        84   Mozambique                   Inpatient (hospital)
+        84       Uganda                   Inpatient (hospital)
+        84       Uganda                   Inpatient (hospital)
+       458 South Africa             Inpatient, severe (adults)
+       458 South Africa      Inpatient, uncomplicated (adults)
+      1013     Eswatini                     Inpatient (adults)
+      1013     Eswatini                     Inpatient (adults)
+      1118   The Gambia Treated pneumonia (trial participants)
+        36       Uganda              Emergency unit (all ages)
+        73     Ethiopia                       Community (iCCM)
+        73        Ghana                       Community (iCCM)
+        73         Mali                       Community (iCCM)
+        73       Malawi                       Community (iCCM)
+        73   Mozambique                       Community (iCCM)
+        73        Niger                       Community (iCCM)
+        96       Uganda           Community (drug seller iCCM)
+        96       Uganda           Community (drug seller iCCM)
+        96       Uganda                   Community (CHW iCCM)
+        96       Uganda                   Community (CHW iCCM)
+       135       Uganda                   Community (VHW iCCM)
+       160        Ghana                Community (iCCM), Volta
+       160        Ghana             Community (iCCM), Northern
+       160        Ghana             Outpatient (CHPS), Volta 1
+       160        Ghana             Outpatient (CHPS), Volta 2
+       160        Ghana          Outpatient (CHPS), Northern 1
+       160        Ghana          Outpatient (CHPS), Northern 2
+       232        Kenya          Inpatient (referral hospital)
+       406     Ethiopia                             Outpatient
+       406     Ethiopia                     Inpatient (severe)
+       406     Ethiopia                             Outpatient
+       704       Malawi                       Community (iCCM)
+       704      Senegal                       Community (iCCM)
+       704     DR Congo                       Community (iCCM)
+       704 Sierra Leone                       Community (iCCM)
+       704  South Sudan                       Community (iCCM)
+       704       Zambia                       Community (iCCM)
+       760 South Africa                   Inpatient (children)
+      1016       Zambia              Community (standard iCCM)
+      1016       Zambia             Community (iCCM + mHealth)
+            perspective                                 component      value
+     Household/societal                         Total per episode   122.6500
+     Household/societal                         Total per episode   447.4600
+              Household                            Direct medical   248.8900
+              Household                        Direct non-medical    43.4200
+              Household                                  Indirect   155.1500
+               Provider                            Direct medical    17.0000
+               Provider                            Direct medical   285.6000
+              Household            Direct (medical + non-medical)    46.3000
+              Household                                  Indirect    17.4000
+              Household                           Total household    63.7000
+               Provider                       Total per admission   435.1200
+               Provider                       Total per admission   795.8100
+ Provider (FFS tariffs)                       Total per admission  1375.3500
+ Provider (FFS tariffs)                       Total per admission 13101.5500
+               Provider            Human resources only (partial)    29.5200
+               Provider            Human resources only (partial)    32.6900
+               Provider                            Direct medical     7.6000
+              Household                             Out-of-pocket     6.0000
+               Societal                     Total incl. time loss    15.4000
+               Provider                            Direct medical    64.0000
+              Household                             Out-of-pocket    31.0000
+               Societal                     Total incl. time loss   108.6000
+              Household                            Direct medical    93.7000
+              Household                        Direct non-medical    94.8800
+              Household                                  Indirect   197.2300
+              Household                           Total household   400.6000
+              Household                            Direct medical     6.0000
+              Household                        Direct non-medical     2.0000
+              Household                            Direct medical    51.0000
+              Household                        Direct non-medical    13.0000
+               Societal                         Total per episode    42.0000
+               Societal                         Total per episode    62.0000
+               Societal                         Total per episode    16.0000
+             Government                            Direct medical    12.0000
+             Government                            Direct medical     7.0000
+              Household                             Out-of-pocket    20.0000
+              Household                                  Indirect    17.0000
+               Provider                           Total, top-down    24.0000
+               Provider                          Total, bottom-up     3.8000
+               Provider                           Total, top-down     3.5000
+               Provider                          Total, bottom-up     2.8000
+               Provider Medicines + consumables + staff (partial)  1328.1100
+               Provider Medicines + consumables + staff (partial)  1157.4400
+               Provider                Antibiotics only (partial)     6.1470
+               Provider                Antibiotics only (partial)    40.4980
+               Provider                  Total per pneumonia case   191.2800
+               Provider             Emergency care only (partial)    15.5500
+               Provider                       Total per treatment    11.8000
+               Provider                       Total per treatment    12.9000
+               Provider                       Total per treatment     6.6000
+               Provider                       Total per treatment     0.8000
+               Provider                       Total per treatment     5.1000
+               Provider                       Total per treatment     2.1000
+          Health sector                           Total per child     2.1818
+              Household                 Total household per child     1.4060
+          Health sector                           Total per child     2.3706
+              Household                 Total household per child     0.6000
+               Provider                   Total per child treated     3.1700
+               Provider                            Total per case     1.1200
+               Provider                            Total per case     7.8000
+               Provider                            Total per case     3.1100
+               Provider                            Total per case     8.7900
+               Provider                            Total per case     5.0400
+               Provider                            Total per case     5.9300
+               Provider                            Direct medical   620.0000
+              Household     Out-of-pocket (medical + non-medical)     7.8000
+              Household     Out-of-pocket (medical + non-medical)    51.6000
+              Household                      Indirect (wage loss)     2.9000
+               Provider                     Recurrent per service     1.7000
+               Provider                     Recurrent per service     8.7500
+               Provider                     Recurrent per service     3.5500
+               Provider                     Recurrent per service     3.4500
+               Provider                     Recurrent per service    12.9400
+               Provider                     Recurrent per service     3.5600
+               Provider                       Total per admission 20412.0000
+               Provider                            Total per case     6.6000
+               Provider                            Total per case    16.9700
+ currency cost_2025_USD                                   flag
+      KES          1.41                                       
+      KES          5.13                                       
+      KES          2.86                                       
+      KES          0.50                                       
+      KES          1.78                                       
+      USD         11.46                                       
+      USD        192.57                                       
+      USD         31.22                                       
+      USD         11.73                                       
+      USD         42.95                                       
+      USD        441.25                                       
+      USD        807.01                                       
+      USD       1394.71                                       
+      USD      13285.99                                       
+      USD         39.60 converted at 2023, then US CPI to 2025
+      USD         43.85 converted at 2023, then US CPI to 2025
+      USD          8.81 converted at 2024, then US CPI to 2025
+      USD          6.95 converted at 2024, then US CPI to 2025
+      USD         17.85 converted at 2024, then US CPI to 2025
+      USD         74.19 converted at 2024, then US CPI to 2025
+      USD         35.93 converted at 2024, then US CPI to 2025
+      USD        125.89 converted at 2024, then US CPI to 2025
+      ETB          4.94 converted at 2024, then US CPI to 2025
+      ETB          5.01 converted at 2024, then US CPI to 2025
+      ETB         10.41 converted at 2024, then US CPI to 2025
+      ETB         21.14 converted at 2024, then US CPI to 2025
+      USD          8.14 converted at 2024, then US CPI to 2025
+      USD          2.71 converted at 2024, then US CPI to 2025
+      USD         69.19 converted at 2024, then US CPI to 2025
+      USD         17.64 converted at 2024, then US CPI to 2025
+      USD         57.04                                       
+      USD         84.20                                       
+      USD         21.73                                       
+      USD         16.30                                       
+      USD          9.51                                       
+      USD         27.16                                       
+      USD         23.09                                       
+      USD         30.13 converted at 2024, then US CPI to 2025
+      USD          4.77 converted at 2024, then US CPI to 2025
+      USD          4.24                                       
+      USD          3.39                                       
+      ZAR         76.62                                       
+      ZAR         66.78                                       
+      USD          7.62 converted at 2019, then US CPI to 2025
+      USD         50.21 converted at 2019, then US CPI to 2025
+      USD        292.42 converted at 2024, then US CPI to 2025
+      USD         20.38                                       
+      USD         15.12 converted at 2024, then US CPI to 2025
+      USD         17.88                                       
+      USD          8.23                                       
+      USD          1.12 converted at 2023, then US CPI to 2025
+      USD          6.40 converted at 2024, then US CPI to 2025
+      USD          2.69                                       
+      USD          2.96                                       
+      USD          1.91                                       
+      USD          3.22                                       
+      USD          0.81                                       
+      USD          3.51                                       
+      USD          1.42                                       
+      USD          9.88                                       
+      USD          3.94                                       
+      USD         11.13                                       
+      USD          6.38                                       
+      USD          7.51                                       
+      USD        705.74                                       
+      USD          8.94 converted at 2024, then US CPI to 2025
+      USD         59.17 converted at 2024, then US CPI to 2025
+      USD          3.33 converted at 2024, then US CPI to 2025
+      USD          1.80 converted at 2023, then US CPI to 2025
+      USD          9.32                                       
+      USD          4.59 converted at 2016, then US CPI to 2025
+      USD          3.64 converted at 2023, then US CPI to 2025
+      USD          3.50 converted at 2024, then US CPI to 2025
+      USD          3.11                                       
+      ZAR       1838.57                                       
+      USD          7.74                                       
+      USD         19.89                                       

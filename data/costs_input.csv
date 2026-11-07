@@ -1,0 +1,78 @@
+record_no,study,country,iso3,setting,perspective,component,statistic,value,currency,cpi_year,xr_year,study_xr,partial,note
+382,Suba Kenya 2019,Kenya,KEN,Home-based care,Household/societal,Total per episode,Mean,122.65,KES,2018,2018,,False,Price year not stated; assumed publication year minus 1 (2018). Values in KES.
+382,Suba Kenya 2019,Kenya,KEN,Facility-based care,Household/societal,Total per episode,Mean,447.46,KES,2018,2018,,False,Price year not stated; assumed publication year minus 1 (2018). Values in KES.
+382,Suba Kenya 2019,Kenya,KEN,Facility-based care,Household,Direct medical,Mean,248.89,KES,2018,2018,,False,Price year not stated; assumed publication year minus 1 (2018). Values in KES.
+382,Suba Kenya 2019,Kenya,KEN,Facility-based care,Household,Direct non-medical,Mean,43.42,KES,2018,2018,,False,Price year not stated; assumed publication year minus 1 (2018). Values in KES.
+382,Suba Kenya 2019,Kenya,KEN,Facility-based care,Household,Indirect,Mean,155.15,KES,2018,2018,,False,Price year not stated; assumed publication year minus 1 (2018). Values in KES.
+345,Kano Nigeria 2022,Nigeria,NGA,Outpatient,Provider,Direct medical,Median,17,USD,2020,2020,360.5,False,Study rate NGN 360.5/USD
+345,Kano Nigeria 2022,Nigeria,NGA,Inpatient,Provider,Direct medical,Mean,285.6,USD,2020,2020,360.5,False,Study rate NGN 360.5/USD
+345,Kano Nigeria 2022,Nigeria,NGA,Inpatient,Household,Direct (medical + non-medical),Mean,46.3,USD,2020,2020,360.5,False,Study rate NGN 360.5/USD
+345,Kano Nigeria 2022,Nigeria,NGA,Inpatient,Household,Indirect,Mean,17.4,USD,2020,2020,360.5,False,Study rate NGN 360.5/USD
+345,Kano Nigeria 2022,Nigeria,NGA,Inpatient,Household,Total household,Mean,63.7,USD,2020,2020,360.5,False,Study rate NGN 360.5/USD
+351,Admission costs South Africa 2011,South Africa,ZAF,"Inpatient, public ward",Provider,Total per admission,Mean,435.12,USD,2007,2007,,False,USD price year not stated; data collected 2007
+351,Admission costs South Africa 2011,South Africa,ZAF,"Inpatient, public PICU",Provider,Total per admission,Mean,795.81,USD,2007,2007,,False,USD price year not stated; data collected 2007
+351,Admission costs South Africa 2011,South Africa,ZAF,"Inpatient, fee-for-service ward",Provider (FFS tariffs),Total per admission,Mean,1375.35,USD,2007,2007,,False,USD price year not stated; data collected 2007
+351,Admission costs South Africa 2011,South Africa,ZAF,"Inpatient, fee-for-service PICU",Provider (FFS tariffs),Total per admission,Mean,13101.55,USD,2007,2007,,False,USD price year not stated; data collected 2007
+129,Provider time Malawi 2016,Malawi,MWI,"Inpatient, severe pneumonia",Provider,Human resources only (partial),Mean,29.52,USD,2012,2012,248.59,True,Study rate MWK 248.59/USD
+129,Provider time Malawi 2016,Malawi,MWI,"Inpatient, very severe pneumonia",Provider,Human resources only (partial),Mean,32.69,USD,2012,2012,248.59,True,Study rate MWK 248.59/USD
+955,Gambia 2016,The Gambia,GMB,Outpatient,Provider,Direct medical,Mean,7.6,USD,2011,2010,,False,Converted by authors at 2010 average rate; local prices 2011-12
+955,Gambia 2016,The Gambia,GMB,Outpatient,Household,Out-of-pocket,Mean,6,USD,2011,2010,,False,Converted by authors at 2010 average rate; local prices 2011-12
+955,Gambia 2016,The Gambia,GMB,Outpatient,Societal,Total incl. time loss,Mean,15.4,USD,2011,2010,,False,Converted by authors at 2010 average rate; local prices 2011-12
+955,Gambia 2016,The Gambia,GMB,Inpatient,Provider,Direct medical,Mean,64,USD,2011,2010,,False,Converted by authors at 2010 average rate; local prices 2011-12
+955,Gambia 2016,The Gambia,GMB,Inpatient,Household,Out-of-pocket,Mean,31,USD,2011,2010,,False,Converted by authors at 2010 average rate; local prices 2011-12
+955,Gambia 2016,The Gambia,GMB,Inpatient,Societal,Total incl. time loss,Mean,108.6,USD,2011,2010,,False,Converted by authors at 2010 average rate; local prices 2011-12
+1018,Jimma caregivers 2019,Ethiopia,ETH,Inpatient,Household,Direct medical,Mean,93.7,ETB,2017,2017,,False,Values in ETB; 2017 implied
+1018,Jimma caregivers 2019,Ethiopia,ETH,Inpatient,Household,Direct non-medical,Mean,94.88,ETB,2017,2017,,False,Values in ETB; 2017 implied
+1018,Jimma caregivers 2019,Ethiopia,ETH,Inpatient,Household,Indirect,Mean,197.23,ETB,2017,2017,,False,Values in ETB; 2017 implied
+1018,Jimma caregivers 2019,Ethiopia,ETH,Inpatient,Household,Total household,Mean,400.6,ETB,2017,2017,,False,Values in ETB; 2017 implied
+969,Household expenditures Ethiopia 2017,Ethiopia,ETH,Outpatient,Household,Direct medical,Mean,6,USD,2013,2013,18.6,False,Study rate ETB 18.6/USD
+969,Household expenditures Ethiopia 2017,Ethiopia,ETH,Outpatient,Household,Direct non-medical,Mean,2,USD,2013,2013,18.6,False,Study rate ETB 18.6/USD
+969,Household expenditures Ethiopia 2017,Ethiopia,ETH,Inpatient (severe),Household,Direct medical,Mean,51,USD,2013,2013,18.6,False,Study rate ETB 18.6/USD
+969,Household expenditures Ethiopia 2017,Ethiopia,ETH,Inpatient (severe),Household,Direct non-medical,Mean,13,USD,2013,2013,18.6,False,Study rate ETB 18.6/USD
+953,Uganda 2021,Uganda,UGA,All episodes,Societal,Total per episode,Mean,42,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD"
+953,Uganda 2021,Uganda,UGA,Inpatient,Societal,Total per episode,Mean,62,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD"
+953,Uganda 2021,Uganda,UGA,Outpatient (ambulatory only),Societal,Total per episode,Mean,16,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD"
+953,Uganda 2021,Uganda,UGA,Inpatient,Government,Direct medical,Mean,12,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD"
+953,Uganda 2021,Uganda,UGA,Outpatient,Government,Direct medical,Mean,7,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD"
+953,Uganda 2021,Uganda,UGA,All episodes,Household,Out-of-pocket,Mean,20,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD"
+953,Uganda 2021,Uganda,UGA,All episodes,Household,Indirect,Mean,17,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD"
+84,Batura Uganda/Mozambique 2022,Mozambique,MOZ,Inpatient (hospital),Provider,"Total, top-down",Unit cost,24,USD,2021,2021,63.58,False,"Authors inflated to 2021 USD; country rates UGX 3,611.22 and MZN 63.58"
+84,Batura Uganda/Mozambique 2022,Mozambique,MOZ,Inpatient (hospital),Provider,"Total, bottom-up",Unit cost,3.8,USD,2021,2021,63.58,False,"Authors inflated to 2021 USD; country rates UGX 3,611.22 and MZN 63.58"
+84,Batura Uganda/Mozambique 2022,Uganda,UGA,Inpatient (hospital),Provider,"Total, top-down",Unit cost,3.5,USD,2021,2021,3611.22,False,"Authors inflated to 2021 USD; country rates UGX 3,611.22 and MZN 63.58"
+84,Batura Uganda/Mozambique 2022,Uganda,UGA,Inpatient (hospital),Provider,"Total, bottom-up",Unit cost,2.8,USD,2021,2021,3611.22,False,"Authors inflated to 2021 USD; country rates UGX 3,611.22 and MZN 63.58"
+458,CAP academic hospital South Africa 2026,South Africa,ZAF,"Inpatient, severe (adults)",Provider,Medicines + consumables + staff (partial),Mean,1328.11,ZAR,2024,2024,,True,Values in ZAR
+458,CAP academic hospital South Africa 2026,South Africa,ZAF,"Inpatient, uncomplicated (adults)",Provider,Medicines + consumables + staff (partial),Mean,1157.44,ZAR,2024,2024,,True,Values in ZAR
+1013,Piggs Peak Eswatini 2018,Eswatini,SWZ,Inpatient (adults),Provider,Antibiotics only (partial),Range min,6.147,USD,2015,2015,11.55,True,Price year not stated; data 2014-15; implied rate 11.55 ZAR(=SZL)/USD
+1013,Piggs Peak Eswatini 2018,Eswatini,SWZ,Inpatient (adults),Provider,Antibiotics only (partial),Range max,40.498,USD,2015,2015,11.55,True,Price year not stated; data 2014-15; implied rate 11.55 ZAR(=SZL)/USD
+1118,Gambia PCV CE 2011,The Gambia,GMB,Treated pneumonia (trial participants),Provider,Total per pneumonia case,Mean,191.28,USD,2005,2005,,False,2005 USD
+36,Emergency care Uganda 2021,Uganda,UGA,Emergency unit (all ages),Provider,Emergency care only (partial),Median,15.55,USD,2019,2019,3700,True,"Study rate UGX 3,700/USD"
+73,iCCM six countries 2017,Ethiopia,ETH,Community (iCCM),Provider,Total per treatment,Unit cost,11.8,USD,2015,2015,,False,2015 USD
+73,iCCM six countries 2017,Ghana,GHA,Community (iCCM),Provider,Total per treatment,Unit cost,12.9,USD,2015,2015,,False,2015 USD
+73,iCCM six countries 2017,Mali,MLI,Community (iCCM),Provider,Total per treatment,Unit cost,6.6,USD,2015,2015,,False,2015 USD
+73,iCCM six countries 2017,Malawi,MWI,Community (iCCM),Provider,Total per treatment,Unit cost,0.8,USD,2015,2015,,False,2015 USD
+73,iCCM six countries 2017,Mozambique,MOZ,Community (iCCM),Provider,Total per treatment,Unit cost,5.1,USD,2015,2015,,False,2015 USD
+73,iCCM six countries 2017,Niger,NER,Community (iCCM),Provider,Total per treatment,Unit cost,2.1,USD,2015,2015,,False,2015 USD
+96,iCCM drug sellers Uganda 2021,Uganda,UGA,Community (drug seller iCCM),Health sector,Total per child,Unit cost,2.1818,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD; per-child = per-100 / 100"
+96,iCCM drug sellers Uganda 2021,Uganda,UGA,Community (drug seller iCCM),Household,Total household per child,Unit cost,1.406,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD; per-child = per-100 / 100"
+96,iCCM drug sellers Uganda 2021,Uganda,UGA,Community (CHW iCCM),Health sector,Total per child,Unit cost,2.3706,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD; per-child = per-100 / 100"
+96,iCCM drug sellers Uganda 2021,Uganda,UGA,Community (CHW iCCM),Household,Total household per child,Unit cost,0.6,USD,2018,2018,3727,False,"Study rate UGX 3,727/USD; per-child = per-100 / 100"
+135,VHW iCCM Uganda 2024,Uganda,UGA,Community (VHW iCCM),Provider,Total per child treated,Unit cost,3.17,USD,2023,2023,,False,2023 USD
+160,iCCM/CHPS Ghana 2017,Ghana,GHA,"Community (iCCM), Volta",Provider,Total per case,Unit cost,1.12,USD,2014,2014,,False,2014 USD
+160,iCCM/CHPS Ghana 2017,Ghana,GHA,"Community (iCCM), Northern",Provider,Total per case,Unit cost,7.8,USD,2014,2014,,False,2014 USD
+160,iCCM/CHPS Ghana 2017,Ghana,GHA,"Outpatient (CHPS), Volta 1",Provider,Total per case,Unit cost,3.11,USD,2014,2014,,False,2014 USD
+160,iCCM/CHPS Ghana 2017,Ghana,GHA,"Outpatient (CHPS), Volta 2",Provider,Total per case,Unit cost,8.79,USD,2014,2014,,False,2014 USD
+160,iCCM/CHPS Ghana 2017,Ghana,GHA,"Outpatient (CHPS), Northern 1",Provider,Total per case,Unit cost,5.04,USD,2014,2014,,False,2014 USD
+160,iCCM/CHPS Ghana 2017,Ghana,GHA,"Outpatient (CHPS), Northern 2",Provider,Total per case,Unit cost,5.93,USD,2014,2014,,False,2014 USD
+232,AMR hospitalised children Kenya 2026,Kenya,KEN,Inpatient (referral hospital),Provider,Direct medical,Mean,620,USD,2019,2019,104.4,False,Data 2017-21 converted at mean KES 104.4/USD; price year taken as 2019
+406,VPD OOP Ethiopia 2023,Ethiopia,ETH,Outpatient,Household,Out-of-pocket (medical + non-medical),Mean,7.8,USD,2021,2021,,False,2021 USD
+406,VPD OOP Ethiopia 2023,Ethiopia,ETH,Inpatient (severe),Household,Out-of-pocket (medical + non-medical),Mean,51.6,USD,2021,2021,,False,2021 USD
+406,VPD OOP Ethiopia 2023,Ethiopia,ETH,Outpatient,Household,Indirect (wage loss),Mean,2.9,USD,2021,2021,,False,2021 USD
+704,iCCM seven countries 2014,Malawi,MWI,Community (iCCM),Provider,Recurrent per service,Unit cost,1.7,USD,2010,2010,,False,2010 USD (programme year)
+704,iCCM seven countries 2014,Senegal,SEN,Community (iCCM),Provider,Recurrent per service,Unit cost,8.75,USD,2011,2011,,False,2011 USD (programme year)
+704,iCCM seven countries 2014,DR Congo,COD,Community (iCCM),Provider,Recurrent per service,Unit cost,3.55,USD,2012,2012,,False,2012 USD (programme year)
+704,iCCM seven countries 2014,Sierra Leone,SLE,Community (iCCM),Provider,Recurrent per service,Unit cost,3.45,USD,2012,2012,,False,2012 USD (programme year)
+704,iCCM seven countries 2014,South Sudan,SSD,Community (iCCM),Provider,Recurrent per service,Unit cost,12.94,USD,2012,2012,,False,2012 USD (programme year)
+704,iCCM seven countries 2014,Zambia,ZMB,Community (iCCM),Provider,Recurrent per service,Unit cost,3.56,USD,2011,2011,,False,2011 USD (programme year)
+760,CAI Tygerberg South Africa 2022,South Africa,ZAF,Inpatient (children),Provider,Total per admission,Mean,20412,ZAR,2015,2015,,False,Values in ZAR 2015
+1016,iCCM mHealth Zambia 2019,Zambia,ZMB,Community (standard iCCM),Provider,Total per case,Unit cost,6.6,USD,2016,2016,10.408,False,Study rate ZMW 10.408/USD
+1016,iCCM mHealth Zambia 2019,Zambia,ZMB,Community (iCCM + mHealth),Provider,Total per case,Unit cost,16.97,USD,2016,2016,10.408,False,Study rate ZMW 10.408/USD

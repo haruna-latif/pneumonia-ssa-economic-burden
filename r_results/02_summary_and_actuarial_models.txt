@@ -1,0 +1,55 @@
+Credibility (cost scale): EPV=19.42 VHM=-0.675; (log scale): EPV=0.4995 VHM=0.0372 k=13.43
+
+Severity sensitivity (gamma vs lognormal):
+           severity mean_S_simulated mean_S_analytical sd_S_simulated
+1 Gamma (base case)          1330495           1330630       36629.12
+2         Lognormal          2075891           2074305      193470.58
+  sd_S_analytical   VaR95  TVaR95 expected_cost_per_child
+1        36737.55 1391375 1407467                   13.30
+2       192922.28 2399622 2573342                   20.76
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+
+All tables (tables/) and figures (figures/) written under . 
+                             set       model fitted_mean sample_mean    AIC
+1 Outpatient/community, provider exponential      6.5948      6.5948 146.31
+2 Outpatient/community, provider       gamma      6.5948      6.5948 140.19
+3 Outpatient/community, provider   lognormal      6.7673      6.5948 141.01
+4            Inpatient, provider exponential    399.4900    399.4900 127.82
+5            Inpatient, provider       gamma    399.4800    399.4900 126.49
+6            Inpatient, provider   lognormal    654.3700    399.4900 126.66
+     KS_p   chisq_p  best
+1 0.17109 0.0040778 FALSE
+2 0.74578 0.0280260  TRUE
+3 0.72273 0.0327930 FALSE
+4 0.42807        NA FALSE
+5 0.99357        NA  TRUE
+6 0.95411        NA FALSE
+  lambda_outpatient lambda_inpatient severity_outpatient severity_inpatient
+1             26100             2900               gamma              gamma
+  mean_S_simulated mean_S_analytical sd_S_simulated sd_S_analytical   VaR95
+1          1330495           1330630       36629.12        36737.55 1391375
+   TVaR95   VaR99 expected_cost_per_child expected_cost_per_episode
+1 1407467 1418414                    13.3                     45.88
+        scenario  mean_S   VaR95  TVaR95 cost_per_child change_vs_base_pct
+1      Base case 1330470 1389747 1405744          13.30                  0
+2 Frequency -20% 1064901 1119573 1132956          10.65                -20
+3 Frequency +20% 1596133 1664278 1681317          15.96                 20
+4  Severity -20% 1064237 1113281 1126657          10.64                -20
+5  Severity +20% 1596994 1666692 1685665          15.97                 20
+6      Both -20%  851836  895900  907357           8.52                -36
+7      Both +20% 1916214 1993984 2015255          19.16                 44
